@@ -1,2 +1,3 @@
 # HexEffect
-A hex-phonic game
+A hex-phonic game made with Unity
+
