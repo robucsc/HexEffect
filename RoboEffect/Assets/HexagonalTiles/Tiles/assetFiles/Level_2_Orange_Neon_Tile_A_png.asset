@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Level_3_Green_Neon_Tile_A
+  m_Name: Level_2_Orange_Neon_Tile_A_png
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: 69fc73a47dcde47b7996863cc8847f3a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: eb0912e1f35d34a8abf0f9e33d94be4d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
