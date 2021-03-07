@@ -26,6 +26,8 @@
       <Path>Logs</Path>
       <Path>Temp</Path>
       <Path>obj</Path>
+      <Path>roboeffect</Path>
+      <Path>webglcorobo.app</Path>
     </explicitExcludes>
   </component>
 </project>
