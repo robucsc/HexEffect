@@ -27,6 +27,7 @@
       <Path>Temp</Path>
       <Path>obj</Path>
       <Path>roboeffect</Path>
+      <Path>roboeffectWeb1</Path>
       <Path>webglcorobo.app</Path>
     </explicitExcludes>
   </component>
