@@ -28,6 +28,7 @@
       <Path>obj</Path>
       <Path>roboeffect</Path>
       <Path>roboeffectWeb1</Path>
+      <Path>webgl-roboeffect</Path>
       <Path>webglcorobo.app</Path>
     </explicitExcludes>
   </component>
